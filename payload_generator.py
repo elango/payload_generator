@@ -1,4 +1,4 @@
-import os, platform,
+import os
 import platform
 import wget
 from SimpleHTTPServer import test
